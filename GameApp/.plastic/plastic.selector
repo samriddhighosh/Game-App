@@ -1,4 +1,0 @@
-repository "GameApp@GamerCraze123@cloud"
-  path "/"
-    br "/main"
-    co "/main"
